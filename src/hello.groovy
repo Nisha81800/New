@@ -1,6 +1,6 @@
 def call (x)
 {
   
-  echo " $(x)"
+  echo " ${x}"
   
 }
